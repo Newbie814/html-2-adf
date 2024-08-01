@@ -1,0 +1,24 @@
+{
+  "name": "html-2-adf",
+  "version": "1.0",
+  "description": "Convert from HTML to Atlassian Document Format (ADF)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "html",
+    "adf",
+    "converter"
+  ],
+  "author": "Deep Patel",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
